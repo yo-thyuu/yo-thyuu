@@ -46,7 +46,7 @@ No expert claims here. Just learning, building, breaking, and fixing.
 
 **next**
 
-└── 🐧 Fedora 44 setup + OverTheWire Bandit
+└── 🐧 kali + OverTheWire Bandit
 
 ## / philosophy 💡
 
